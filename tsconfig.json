@@ -1,0 +1,17 @@
+{
+  "exclude": [
+    "./node_modules",
+    "./node_modules/**/*",
+    "node_modules",
+    "dist",
+    "packages/*/node_modules",
+    "**/node_modules"
+  ],
+  "compilerOptions": {
+    "sourceMap": true,
+    "importHelpers": true,
+    "diagnostics": true,
+    "skipLibCheck": true,
+    "preserveConstEnums": true
+  }
+}

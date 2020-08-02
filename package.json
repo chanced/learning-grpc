@@ -1,0 +1,12 @@
+{
+  "name": "learning-grpc",
+  "version": "0.0.1",
+  "description": "learning grpc",
+  "repository": "git@github.com:chanced/learning-grpc.git",
+  "author": "chanced <chanceusc@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

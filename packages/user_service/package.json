@@ -1,0 +1,22 @@
+{
+  "name": "@learning-grpc/user_service",
+  "version": "0.0.1",
+  "description": "learning grpc",
+  "repository": "git@github.com:chanced/learning-grpc.git",
+  "author": "chanced <chanceusc@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "grpc": "^1.24.3",
+    "grpc-tools": "1.9.1",
+    "@grpc/proto-loader": "^0.5.5",
+    "grpc-health-check": "1.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27",
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.10.1",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.7"
+  }
+}
